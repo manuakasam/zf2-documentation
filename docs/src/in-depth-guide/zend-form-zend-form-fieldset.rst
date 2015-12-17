@@ -16,7 +16,7 @@ Core components
 We want to be able to do exactly this and Zend Framework provides us with all the tools we need to achieve our goal.
 Before we jump into coding, we need to understand the two core components for this task first. So let's take a look at
 what these components are and what they are used for.
-
+a
 .. _in-depth-guide.zend-form-zend-form-fieldset.core-components.fieldset:
 
 Zend\\Form\\Fieldset
